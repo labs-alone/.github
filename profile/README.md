@@ -2,7 +2,6 @@
 <div align="center">
   <img src="https://media.discordapp.net/attachments/1199317611058577408/1334744513716949014/Add_a_heading.png?ex=679da532&is=679c53b2&hm=2a2af0bd7dec7423ca7a119443d88c2f24dd7b852dcabe364257f5220497b4ac&=&format=webp&quality=lossless&width=1439&height=479" alt="Alone Labs Banner" width="800"/>
 </div>
----
 
 Welcome to **Alone Labs**, where open-source innovation meets decentralization. We build tools and frameworks at the intersection of AI and crypto, empowering developers and communities to create in a decentralized world.
 
