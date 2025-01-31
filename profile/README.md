@@ -15,8 +15,8 @@ To pioneer open-source AI solutions that align with the principles of decentrali
 
 ## Our Current Projects  
 
-### [Zen - An Advanced Conversational LLM Framework](https://github.com/labs-alone/vae)  
-Zen is a modular, open-source conversational AI framework designed for the decentralized era. It bridges the power of advanced AI with the flexibility of systems.  
+### [Vae - An Advanced Conversational LLM Framework](https://github.com/labs-alone/vae)  
+Vae is a modular, open-source conversational AI framework designed for the decentralized era. It bridges the power of advanced AI with the flexibility of systems.  
 
 Key features:  
 - Plugin-based architecture with hot-swappable components  
@@ -24,7 +24,7 @@ Key features:
 - Semantic storage powered by PostgreSQL and pgvector  
 - Extensible manager system for customizable conversational behaviors  
 
-Explore Zen in its [repository](https://github.com/labs-alone/vae).
+Explore Vae in its [repository](https://github.com/labs-alone/vae).
 
 ### [Toolkit - LLM Function Calling Framework](https://github.com/labs-alone/alone-main)
 Toolkit is a Go AND Rust package that simplifies building and managing LLM function calling tools. It provides a clean interface for implementing AI-compatible functions and organizing them into toolkits.
