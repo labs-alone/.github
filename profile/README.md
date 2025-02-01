@@ -1,6 +1,6 @@
 # Alone Labs  
 <div align="center">
-  <img src="[https://media.discordapp.net/attachments/1199317611058577408/1334744513716949014/Add_a_heading.png?ex=679da532&is=679c53b2&hm=2a2af0bd7dec7423ca7a119443d88c2f24dd7b852dcabe364257f5220497b4ac&=&format=webp&quality=lossless&width=1439&height=479](https://media.discordapp.net/attachments/1199307897344114738/1335196736255168542/Add_a_heading.png?ex=679f4a5c&is=679df8dc&hm=8439a3c9c237e4419fbd1237162cc97aefae39d8d2447c4320f3f5f63041cc0a&=&format=webp&quality=lossless&width=605&height=201)" alt="Alone Labs Banner" width="850"/>
+  <img src="https://media.discordapp.net/attachments/1199307897344114738/1335196736255168542/Add_a_heading.png?ex=679f4a5c&is=679df8dc&hm=8439a3c9c237e4419fbd1237162cc97aefae39d8d2447c4320f3f5f63041cc0a&=&format=webp&quality=lossless&width=605&height=201" alt="Alone Labs Banner" width="850"/>
 </div>
 
 
