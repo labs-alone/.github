@@ -1,6 +1,6 @@
 # Alone Labs  
 <div align="center">
-  <img src="https://media.discordapp.net/attachments/1199307897344114738/1335196736255168542/Add_a_heading.png?ex=679f4a5c&is=679df8dc&hm=8439a3c9c237e4419fbd1237162cc97aefae39d8d2447c4320f3f5f63041cc0a&=&format=webp&quality=lossless&width=1439&height=479" alt="Alone Labs Banner" width="100%"/>
+  <img src="https://github.com/labs-alone/.github/blob/main/images/Add%20a%20heading.png?raw=true" alt="Alone Labs Banner" width="100%"/>
 </div>
 
 
